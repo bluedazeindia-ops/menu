@@ -7,11 +7,11 @@
     {
       "binding": "DB",
       "database_name": "menu",
-      "database_id": "ccf937cb-5475-4788-b70b-7f37d7bcbe65"
+      "database_id": "e8512052-50fe-46b9-b4c0-a6f29f73120e"
     }
   ],
   "vars": {
-    "JWT_SECRET": "ccf937cb-5475-4788-b70b-7f37d7bcbe65",
+    "JWT_SECRET": "e8512052-50fe-46b9-b4c0-a6f29f73120e",
     "APP_ENV": "development"
   }
 }
